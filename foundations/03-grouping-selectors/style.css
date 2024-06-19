@@ -1,0 +1,23 @@
+/* style.css */
+.common-styles {
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
+
+/* Alternatively, below is good, too
+.first-element,
+.second-element {
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+} 
+ */
+
+.first-element {
+    background-color: #000;
+    color: #fff;
+    font-weight: bold;
+}
+
+.second-element {
+    background-color: #fffe00;
+}
